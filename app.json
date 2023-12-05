@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "yoripe-chat",
+    "slug": "yoripe-chat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "yoripe-chat"
+}
